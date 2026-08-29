@@ -199,3 +199,8 @@ bun test
 # Build for production
 bun run build
 ```
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
